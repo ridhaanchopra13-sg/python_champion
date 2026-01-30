@@ -1,0 +1,9 @@
+tree_1 = 68
+tree_2 = 420
+tree_3 = 67
+tree_4 = 21
+tree_5 = 69
+sum = (tree_1 + tree_2 + tree_3 + tree_4 + tree_5)
+print("Sum of tree_1 + tree_2 + tree_3 + tree_4 + tree_5 =",sum)
+average = sum/5
+print("Average of tree_1 + tree_2 + tree_3 + tree_4 + tree_5 =",average )
